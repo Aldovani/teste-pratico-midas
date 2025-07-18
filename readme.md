@@ -16,3 +16,12 @@ O novo design do pop-up foi desenvolvido com o objetivo de melhorar a experiênc
 # 🎨 Exercício 2 – Criação de Layout para Landing Page
 
 <img src="./images/landing-page.png"/>
+
+## Análise do Layout
+
+O layout da landing page foi projetado para ser visualmente atraente e funcional. A seguir, estão os principais pontos de análise:
+
+1. **Estrutura Clara**: A estrutura da página é clara, com seções bem definidas que guiam o usuário através das informações.
+2. **Elementos Visuais**: O uso de imagens e ícones é eficaz para transmitir a mensagem e tornar a página mais envolvente.
+3. **Chamadas para Ação**: As chamadas para ação são destacadas e posicionadas estrategicamente para incentivar a interação do usuário.
+4. **Consistência Visual**: A consistência visual é mantida através do uso de cores, tipografia e espaçamento, criando uma identidade coesa para a página.
