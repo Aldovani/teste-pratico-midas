@@ -12,3 +12,7 @@ O novo design do pop-up foi desenvolvido com o objetivo de melhorar a experiênc
 2. **Uso de Cores**: As cores foram escolhidas para serem mais agradáveis aos olhos e para destacar as informações mais importantes. A paleta de cores é consistente com a identidade visual do produto.
 3. **Tipografia**: A tipografia foi aprimorada para garantir uma melhor legibilidade e uma hierarquia visual mais clara. Títulos e textos foram ajustados para facilitar a leitura.
 4. **Botões de Ação**: Os botões de ação foram reposicionados e estilizados para serem mais visíveis e intuitivos. Eles agora possuem um tamanho adequado e cores que contrastam bem com o fundo, facilitando a interação do usuário.
+
+# 🎨 Exercício 2 – Criação de Layout para Landing Page
+
+<img src="./images/landing-page.png"/>
